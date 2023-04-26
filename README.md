@@ -12,3 +12,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-kang"></img>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kid-kang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+| ![kid-kang's github stats](https://github-readme-stats.vercel.app/api?username=kid-kang&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-kang&theme=radical&layout=compact) |
