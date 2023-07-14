@@ -6,7 +6,7 @@
 
 - 🏡 个人博客：https://wangzhengkang.cool/
 - 💬 QQ: 1356422517 (乐此不疲)
-- 🌱 项目经历：<a href="https://github.com/kid-kang/blog" target="_blank">博客分享平台</a> | <a href="https://github.com/kid-kang/my-music" target="_blank">网易云音乐</a> | <a href="https://github.com/kid-kang/Prada" target="_blank">Prada官网</a>
+- 🌱 项目经历：<a href="https://github.com/kid-kang/blog" target="_blank">博客分享平台</a> | <a href="https://github.com/kid-kang/my-music" target="_blank">网易云音乐</a>
 
 ## Github Status ✨
 
